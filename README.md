@@ -31,7 +31,8 @@
       sudo python3 server.py
      ```
 
-The server will start listening on port 5000. Make sure to open incoming and outgoing connections to port 5000 from your firewall and also in the security group settings, if you are running from a VPS instance on the cloud.
+The server will start listening on port 5000.
+Make sure to open incoming and outgoing connections to port 5000 from your firewall and also in the security group settings, if you are running from a VPS instance on the cloud.
 
 
 
